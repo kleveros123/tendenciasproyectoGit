@@ -8,6 +8,14 @@
 </head>
 <body>
     <h1>Mi primer proyecto con git</h1>
-    test
+    <h2>Conceptos principales de ...</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, sunt quasi. Eos, tempore! Optio, voluptate nesciunt voluptatum nisi quidem, excepturi iure similique ratione dicta perferendis eos earum quae dolorem sed!</p>
+    <h2>Herramientas Utilizadas</h2>
+    <ol>
+    <li>Php</li>
+    <li>Html</li>
+    <li>Git</li>
+    </ol>
+
 </body>
 </html>

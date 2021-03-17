@@ -16,7 +16,7 @@
     <li>Html</li>
     <li>Git</li>
     <li>Xampp</li>
-    <li>.....</li>
+    <li>otros cambios realizados</li>
     </ol>
 
 </body>
